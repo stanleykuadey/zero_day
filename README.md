@@ -6,10 +6,15 @@
 
 <h3> For Windows Users </h3>
 1. Download VirtualBox from https://intranet.alxswe.com/rltoken/gnDuZRjo-TxXIvnH4aAG5g
+
 2. Install VirtualBox
+
 3. Download Vagrant from https://intranet.alxswe.com/rltoken/rTqEUgxwGx2C-11h6lLcQA
+
 4. Install Vagrant
+
 5. Open the command prompt
+
 6. Add the Ubuntu 20.04 (Focal) image to your box list:
 	<ul>
 	<li> C:\Users\julien> vagrant box add ubuntu/focal64 <strong> Warning: this step can take time </strong> </li>
