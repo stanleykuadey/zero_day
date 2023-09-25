@@ -17,7 +17,7 @@ For Windows Users
 	</ul>
 
 <h3> Create your first virtual machine: </h3>
-<ul> </li> <p style="color: red;"> C:\Users\julien> vagrant init ubuntu/focal64 </p> -> it will generate a Vagrantfile with base = "ubuntu/focal64" -you don’t have to execute this command line everyday, only once, to create a new virtual machine </li> <ul>
+<ul> </li> <p style="color:red;"> C:\Users\julien> vagrant init ubuntu/focal64 </p> -> it will generate a Vagrantfile with base = "ubuntu/focal64" -you don’t have to execute this command line everyday, only once, to create a new virtual machine </li> <ul>
 
 C:\Users\julien> vagrant plugin install vagrant-vbguest -> to avoid issue with the last version of Vagrant (2.2.4 or latest)
 C:\Users\julien> vagrant up -> it will start your virtual machine
